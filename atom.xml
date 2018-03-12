@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>On the way</title>
+  
+  <subtitle>keep walking</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://notail.github.io/"/>
+  <updated>2018-03-12T03:19:10.000Z</updated>
+  <id>https://notail.github.io/</id>
+  
+  <author>
+    <name>Jerry Woo</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>start github pages</title>
+    <link href="https://notail.github.io/2018/03/11/welcome/"/>
+    <id>https://notail.github.io/2018/03/11/welcome/</id>
+    <published>2018-03-11T15:17:55.000Z</published>
+    <updated>2018-03-12T03:19:10.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="开启github-pages"><a href="#开启github-pages" class="headerlink" title="开启github pages"></a>开启github pages</h3><p>开始写博客，积累技术知识。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;开启github-pages&quot;&gt;&lt;a href=&quot;#开启github-pages&quot; class=&quot;headerlink&quot; title=&quot;开启github pages&quot;&gt;&lt;/a&gt;开启github pages&lt;/h3&gt;&lt;p&gt;开始写博客，积累技术知识。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="others" scheme="https://notail.github.io/categories/others/"/>
+    
+    
+  </entry>
+  
+</feed>
